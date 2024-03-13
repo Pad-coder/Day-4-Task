@@ -1,12 +1,26 @@
 {
-    "Name": "Padmanaban",
-    "Age": "22",
-    "Contact info": { 
-        "email": "suriya0078702gmail.com",
-        "Phone": "8072849968",
-        "Address": "417, Arul nagar, urappakam,641014"
+    "personal_information": {
+      "name": "Padmanaban M",
+      "email": "padmanaban@gmail.com",
+      "phone": "+1234567890",
+      "address": "417, 4th cross street, Chennai, Tamil Nadu, 603111",
+      "linkedin": "https://www.linkedin.com/in/Padmanaban",
+      "github": "https://github.com/Padmanaban"
     },
-    "summary": "Experienced software engineer with a passion for building robust and scalable applications. Proficient in Java, Python, and JavaScript.",
-    "Degeree": "Bachelor of arts in english litereture",
-    "Skills" : "Coding, Quick learning, computer knowledge"
-}
+    "education": [
+      {
+        "degree": "Bachelor of Arts in English litereture",
+        "university": "Bharathiyar university",
+        "location": "Coimbatore, Tamil nadu",
+        "graduation_year": "2024"
+      }
+    ],
+    "skills": [
+      "Programming Languages: JavaScript",
+      "Web Development: HTML, CSS",
+      "Version Control: Git, GitHub",
+      "Operating Systems: Windows, Linux, macOS",
+      "Language: English, Tamil"
+    ]
+  }
+  
